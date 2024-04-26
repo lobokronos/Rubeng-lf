@@ -1,4 +1,4 @@
-# Repositorio de GITHUB de Lobokronos 
+# Repositorio de GITHUB de Rubeng-lf 
 ![Imagen de Portada](recursos/wolf-developer.jpg) 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
